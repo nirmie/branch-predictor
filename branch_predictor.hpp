@@ -1,3 +1,4 @@
+#include "predictors/local2.hpp"
 #include "predictors/always_taken.hpp"
 #include "predictors/bimodal.hpp"
 #include "predictors/gshare.hpp"
@@ -9,6 +10,7 @@
 #include "predictors/gshareN_ahead.hpp"
 #include "predictors/hashed_perceptron.hpp"
 #include "predictors/tutorial/tutorial.hpp"
+#include "predictors/tournament.hpp"
 
 #ifdef PREDICTOR
 using branch_predictor = PREDICTOR;
