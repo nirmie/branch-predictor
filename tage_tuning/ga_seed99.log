@@ -1,0 +1,21 @@
+
+Gen 0  best VFS=0.7653  MPKI=6.198  median=0.6277
+Gen 1  best VFS=0.7726  MPKI=6.205  median=0.7383  cfg={'LOGLB': 6, 'NUMG': 10, 'LOGG': 11, 'LOGB': 13, 'TAGW': 11, 'GHIST': 150, 'LOGP1': 14, 'GHIST1': 12}
+Gen 2  best VFS=0.7776  MPKI=6.120  median=0.7644  cfg={'LOGLB': 6, 'NUMG': 8, 'LOGG': 11, 'LOGB': 12, 'TAGW': 11, 'GHIST': 160, 'LOGP1': 14, 'GHIST1': 12}
+Gen 3  best VFS=0.7776  MPKI=6.120  median=0.7702  cfg={'LOGLB': 6, 'NUMG': 8, 'LOGG': 11, 'LOGB': 12, 'TAGW': 11, 'GHIST': 160, 'LOGP1': 14, 'GHIST1': 12}
+Gen 4  best VFS=0.7786  MPKI=6.076  median=0.7726  cfg={'LOGLB': 6, 'NUMG': 8, 'LOGG': 11, 'LOGB': 12, 'TAGW': 11, 'GHIST': 150, 'LOGP1': 14, 'GHIST1': 12}
+Gen 5  best VFS=0.7786  MPKI=6.076  median=0.7743  cfg={'LOGLB': 6, 'NUMG': 8, 'LOGG': 11, 'LOGB': 12, 'TAGW': 11, 'GHIST': 150, 'LOGP1': 14, 'GHIST1': 12}
+Gen 6  best VFS=0.7799  MPKI=6.042  median=0.7781  cfg={'LOGLB': 6, 'NUMG': 8, 'LOGG': 11, 'LOGB': 11, 'TAGW': 11, 'GHIST': 150, 'LOGP1': 14, 'GHIST1': 12}
+
+GA done. Best overall:
+{
+  "LOGLB": 6,
+  "NUMG": 8,
+  "LOGG": 11,
+  "LOGB": 11,
+  "TAGW": 11,
+  "GHIST": 150,
+  "LOGP1": 14,
+  "GHIST1": 12
+}
+VFS=0.7799  MPKI=6.042  EPI=1516  P1lat=1  P2lat=2

@@ -5,6 +5,7 @@
 #include "predictors/never_taken.hpp"
 #include "predictors/perceptron.hpp"
 #include "predictors/tage.hpp"
+#include "predictors/tage_tuned.hpp"
 #include "predictors/bimodalN.hpp"
 #include "predictors/gshareN.hpp"
 #include "predictors/gshareN_ahead.hpp"
